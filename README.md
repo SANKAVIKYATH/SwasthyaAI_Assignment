@@ -1,4 +1,4 @@
-# SwastyaAI_Assignment-
+# SwastyaAI_Assignment
 
 This Assessment is on backend development with:
 1. The objective is to create a backend API with User, Blog and Comment
